@@ -6,6 +6,11 @@ Contenidos
 - Generación de variables aleatorias
     - Discretas
     - Continuas
+  
+![Introducción a la simulacióm](https://www.processmaker.com/wp-content/uploads/2021/07/simulation-modeling-process-mining-768x614.jpg)
+<img src="https://www.processmaker.com/wp-content/uploads/2021/07/simulation-modeling-process-mining-768x614.jpg" width="300px">
+
+La ecuación de la energía es: $E=mc^2$, y puede cambiar el color $\textcolor{red}{E=mc^2}$
 ## Bibliografía
 
 Sheldon Ross
