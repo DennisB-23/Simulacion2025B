@@ -6,7 +6,9 @@ Contenidos
 - Generación de variables aleatorias
     - Discretas
     - Continuas
-  
+- Generación de Procesos Poisson
+- Movimiento Browniano
+- Black Scholes
 ![Introducción a la simulacióm](https://www.processmaker.com/wp-content/uploads/2021/07/simulation-modeling-process-mining-768x614.jpg)
 <img src="https://www.processmaker.com/wp-content/uploads/2021/07/simulation-modeling-process-mining-768x614.jpg" width="300px">
 
